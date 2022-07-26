@@ -24,7 +24,7 @@
     <string name="register_name">Digite seu nome</string>
     <string name="register_email">Digite seu email</string>
     <string name="register_password">Digite sua senha</string>
-    <string name="register_now_title">CADASTRAR AGORA</string>
+    <string name="register_now_title">REGISTRAR CONTA</string>
     <string name="exit">Sair</string>
     <string name="botão_salvar">Botão quando clica para salvar de edit</string>
 
