@@ -18,12 +18,12 @@
     <string name="previous">Previous</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Senha</string>
-    <string name="action_sign_in">ENTRAR</string>
+    <string name="action_sign_in">LOGIN</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="register_now">Crie sua conta agora</string>
-    <string name="register_name">Digite seu nome</string>
-    <string name="register_email">Digite seu email</string>
-    <string name="register_password">Digite sua senha</string>
+    <string name="register_name">nome</string>
+    <string name="register_email">email</string>
+    <string name="register_password">senha</string>
     <string name="register_now_title">REGISTRAR CONTA</string>
     <string name="exit">Sair</string>
     <string name="botão_salvar">Botão quando clica para salvar de edit</string>

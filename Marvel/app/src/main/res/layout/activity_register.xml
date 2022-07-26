@@ -46,7 +46,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_gravity="start"
-        android:layout_marginTop="@dimen/margin_16"
+        android:layout_marginTop="@dimen/margin_top_32dp"
         android:text="@string/register_now_title"
         app:layout_constraintEnd_toEndOf="@+id/etPasswordRegister"
         app:layout_constraintStart_toStartOf="@+id/etPasswordRegister"
