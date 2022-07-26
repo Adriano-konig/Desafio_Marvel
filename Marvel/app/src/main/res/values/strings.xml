@@ -25,6 +25,9 @@
     <string name="register_email">Digite seu email</string>
     <string name="register_password">Digite sua senha</string>
     <string name="register_now_title">CADASTRAR AGORA</string>
+    <string name="exit">Sair</string>
+    <string name="botão_salvar">Botão quando clica para salvar de edit</string>
+
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>

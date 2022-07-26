@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "600755550218",
-    "project_id": "desafio-marvel-ee11d",
-    "storage_bucket": "desafio-marvel-ee11d.appspot.com"
+    "project_number": "217504764966",
+    "project_id": "exercicio-01-aula-firebase",
+    "storage_bucket": "exercicio-01-aula-firebase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:600755550218:android:e98ad5eb4352b6be75c7f3",
+        "mobilesdk_app_id": "1:217504764966:android:5cc64de1e240a6312202e7",
         "android_client_info": {
           "package_name": "br.com.zup.marvel"
         }
       },
       "oauth_client": [
         {
-          "client_id": "600755550218-7vg7jq7es4pk31m3in4oc4cod4a005j8.apps.googleusercontent.com",
+          "client_id": "217504764966-17v33appo3u2uuu97bhihbfqmrjchnkt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAaY9zrGPx3yjnfMSNndGr9l7MtuW6zgd4"
+          "current_key": "AIzaSyATTQA6ydPyCkXHNSpYHJTTVDEwmvJamdg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "600755550218-7vg7jq7es4pk31m3in4oc4cod4a005j8.apps.googleusercontent.com",
+              "client_id": "217504764966-17v33appo3u2uuu97bhihbfqmrjchnkt.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
