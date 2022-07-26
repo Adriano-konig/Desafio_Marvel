@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Marvel</string>
     <string name="detalhe_name">Detalhes</string>
+    <string name="login">Login</string>
+    <string name="registro">Registro</string>
     <string name="informacoes_name">Marvel Studios</string>
     <string name="texto_home">"Olá addNomeDoUsuarioLogado esses são alguns dos personagens da Marvel</string>
     <string name="lista_nome_heroi">Nome do heroi</string>
